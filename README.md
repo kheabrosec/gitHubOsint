@@ -17,4 +17,4 @@ Save the output in json format in given path.
 
 # Install:
 
-pip install -r requeriments.txt
+pip3 install -r requeriments.txt
