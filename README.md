@@ -1,5 +1,5 @@
 # GitHubOsint
-Python tool for github users emails gathering.
+Python tool to collect emails from github users.
 
 # Usage:
 
