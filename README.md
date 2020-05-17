@@ -11,7 +11,7 @@ Save the output in json format.
 
 python3 githubosint.py -n GithubUsername -o json -p /test/path
 
-Save the output in json format in given path.
+Save the output in json format in given path. (Defaults in actual path as githubusername)
 
 
 
